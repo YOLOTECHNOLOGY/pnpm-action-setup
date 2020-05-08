@@ -1,10 +1,7 @@
-node_modules
-*.log
-/dist/*
-!/dist/index.js
-tmp
-temp
-*.tmp
-*.temp
-tmp.*
-temp.*
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
